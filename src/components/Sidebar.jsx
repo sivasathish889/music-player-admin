@@ -28,7 +28,7 @@ const Sidebar = () => {
                     <Radio size={20} color="#fff" />
                 </div>
                 <div>
-                    <div style={styles.logoTitle}>Antigravityt</div>
+                    <div style={styles.logoTitle}>Rhythm</div>
                     <div style={styles.logoSub}>Admin Panel</div>
                 </div>
             </div>
